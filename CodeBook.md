@@ -2,7 +2,7 @@
 title: "CodeBook"
 output: html_document
 ---
-##The original data for this projects come from:  
+##The original data for this project come from:  
 
  
  =================================================================================================== 
